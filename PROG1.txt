@@ -8,3 +8,16 @@
 8. Tabaiba  - [http://dle.rae.es/Tabaiba](http://dle.rae.es/Tabaiba)
 9. Baifo  - [http://dle.rae.es/Baifo](http://dle.rae.es/Baifo)
 10. Pelete  - [http://dle.rae.es/Pelete](http://dle.rae.es/Pelete)
+
+--Palabras Marcos--
+
+reloj - https://dle.rae.es/reloj?m=form
+sofístico, ca - https://dle.rae.es/sof%C3%ADstico
+batería - https://dle.rae.es/bater%C3%ADa
+rosquilla - https://dle.rae.es/rosquilla?m=form
+tacaño, ña - https://dle.rae.es/taca%C3%B1o?m=form
+resbalar - https://dle.rae.es/resbalar?m=form
+anillo - https://dle.rae.es/anillo?m=form
+linterna - https://dle.rae.es/linterna#A3PjkVK
+hermano, na - https://dle.rae.es/hermano?m=form
+abogado, da - https://dle.rae.es/habilitado2
